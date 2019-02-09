@@ -35,6 +35,7 @@
     <style name="ActionBarThemeOverlay" parent="ThemeOverlay.AppCompat.ActionBar">
         <item name="colorAccent">@color/accent_color_dark</item>
         <item name="colorControlNormal">?attr/textColorActionBar</item>
+        <item name="titleTextStyle">@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title</item>
     </style>
 
     <!-- Tabs -->
